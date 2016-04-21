@@ -1,2 +1,3 @@
-# mm-client
-MissionMedical front-end client application
+## cm-client
+# Christ Medical: Client
+Christ Medical: front-end client application
