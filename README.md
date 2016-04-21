@@ -1,3 +1,2 @@
-## cm-client
 # Christ Medical: Client
-Christ Medical: front-end client application
+Front-end client application for the "Christ Medical" application
